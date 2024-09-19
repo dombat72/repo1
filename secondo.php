@@ -1,5 +1,5 @@
 <?php
 
-echo "secondo file";
+echo "xxxxsecondo file";
 
 ?>
