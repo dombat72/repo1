@@ -1,0 +1,5 @@
+<?php
+
+echo "secondo file";
+
+?>
